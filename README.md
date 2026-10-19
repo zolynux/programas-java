@@ -1,1 +1,3 @@
-# programas-java
+# Programas Java del equipo
+
+## Cada integrante agrega un programa en la carpeta src
